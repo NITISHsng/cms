@@ -22,8 +22,8 @@ const team: TeamMember[] = [
   { name: "Papai Mandal", role: "Project Lead", photoUrl: null },
   { name: "Pragya Sarkar", role: "Frontend Developer", photoUrl: null },
   { name: "Nitish Chandra Singha", role: "Backend Developer", photoUrl: null },
-  { name: "Miraj Laskor", role: "UI/UX Designer", photoUrl: null },
-  { name: "Mohit Sing", role: "QA & Documentation", photoUrl: null },
+  { name: "Miraj Laskar", role: "UI/UX Designer", photoUrl: null },
+  { name: "Mohit Singh", role: "QA & Documentation", photoUrl: null },
 ];
 
 const techStack = [
